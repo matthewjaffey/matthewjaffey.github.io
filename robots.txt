@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://matthewjaffey.github.io/al-folio/sitemap.xml
+Sitemap: https://matthewjaffey.github.io/sitemap.xml
